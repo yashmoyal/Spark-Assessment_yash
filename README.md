@@ -21,7 +21,7 @@ A Spark project using Databricks Delta Lake
 ![Screenshot 2022-06-27 113446](https://user-images.githubusercontent.com/73746900/175870435-296cfd3e-2d1e-49ff-b44c-492dcb594a48.jpg)
 
 ## After that Install pyspark for Delta (for using Delta Lake in Spark)
-(https://pypi.org/project/delta-spark/1.0.1/)
+##(https://pypi.org/project/delta-spark/1.0.1/)
 
 ![Screenshot 2022-06-27 114149](https://user-images.githubusercontent.com/73746900/175871394-77c03289-6dad-4984-8e18-48bd84135932.jpg)
 
